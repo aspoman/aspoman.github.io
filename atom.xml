@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ckil</title>
+  <subtitle>Do one thing and do it well!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-06-27T23:35:23.353Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>changqun.xu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>It&#39;s a good day.</title>
+    <link href="http://yoursite.com/2017/06/26/It-s-a-good-day/"/>
+    <id>http://yoursite.com/2017/06/26/It-s-a-good-day/</id>
+    <published>2017-06-26T15:37:00.000Z</published>
+    <updated>2017-06-27T23:35:23.353Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客搞起<br>666…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;博客搞起&lt;br&gt;666…&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="杂谈" scheme="http://yoursite.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+      <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+</feed>
